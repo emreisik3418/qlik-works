@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+.vs/
+logs/
+backups/
+*.pfx
+*.cer
+*.pem
+*.key
+*_result_*.xlsx
+appsettings.Local.json
+TestResults/
