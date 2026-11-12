@@ -38,6 +38,8 @@ Excel dosyasında listelenen **AppId + SheetId** çiftlerini Qlik Sense Enterpri
 qlik-works/
 ├── QlikSheetCleaner.sln
 ├── README.md
+├── prompts/
+│   └── python-version.md               # aynı aracın Python ile yazılması için prompt
 ├── samples/
 │   └── sample-input.xlsx
 ├── src/QlikSheetCleaner/
